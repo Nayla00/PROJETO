@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 versao do master - Nauria
+=======
+versao da feature login - Nauria
+>>>>>>> feature/login
